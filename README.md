@@ -1,5 +1,4 @@
 ## VynileProject
-
 Platine numérique qui detecte les taches sur un disque de papier et va jouer des sons et des animations en fonctions des taches realisées
 -------
 ## Fonctionnement
@@ -12,7 +11,6 @@ Appuyer sur create
 ------
 ## Pré-requis
 Utiliser une vrai platine vynil ou en créer une
-
 Placer une caméra au dessus de la platine
 ------
 ## Images
