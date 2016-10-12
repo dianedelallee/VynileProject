@@ -12,6 +12,7 @@ Appuyer sur create.
 ------
 ## Pré-requis
 Utiliser une vrai platine vynil ou en créer une.
+
 Placer une caméra au dessus de la platine.
 
 ------
